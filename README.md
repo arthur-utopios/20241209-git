@@ -17,3 +17,4 @@ git pull
 ## Liens utiles
 
 - [learngitbranching.js](https://learngitbranching.js.org/?locale=fr_FR)
+- [git commit --amend](https://www.atlassian.com/git/tutorials/rewriting-history)
