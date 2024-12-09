@@ -1,0 +1,7 @@
+example.md
+
+bin/
+
+*.log
+
+!main.log
