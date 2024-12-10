@@ -3,3 +3,4 @@
 3. Créer une branche `B1` à partir de `C1`
 4. Faire une modification du fichier et commiter `C3`
 5. Merger `B1` dans `main` de manière à avoir un historique linéaire
+

@@ -18,3 +18,9 @@ git pull
 
 - [learngitbranching.js](https://learngitbranching.js.org/?locale=fr_FR)
 - [git commit --amend](https://www.atlassian.com/git/tutorials/rewriting-history)
+
+## Notepad++
+
+```sh
+git config --global core.editor "'C:\Program Files\Notepad\notepad.exe' -multiInst -notabbar -nosession -noPlugin"
+```
